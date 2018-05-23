@@ -30,11 +30,11 @@
 
 @font-face {
 	font-family: 'WPST-icons';
-	src:url('/wp-content/plugins/wp-symposium-toolbar/fonts/WPST-icons.eot');
-	src:url('/wp-content/plugins/wp-symposium-toolbar/fonts/WPST-icons.eot#iefix') format('embedded-opentype'),
-		url('/wp-content/plugins/wp-symposium-toolbar/fonts/WPST-icons.ttf') format('truetype'),
-		url('/wp-content/plugins/wp-symposium-toolbar/fonts/WPST-icons.woff') format('woff'),
-		url('/wp-content/plugins/wp-symposium-toolbar/fonts/WPST-icons.svg#WPST-icons') format('svg');
+	src:url('https://erichseamon.github.io/erichseamon/wp-content/plugins/wp-symposium-toolbar/fonts/WPST-icons.eot');
+	src:url('https://erichseamon.github.io/erichseamon/wp-content/plugins/wp-symposium-toolbar/fonts/WPST-icons.eot#iefix') format('embedded-opentype'),
+		url('https://erichseamon.github.io/erichseamon/wp-content/plugins/wp-symposium-toolbar/fonts/WPST-icons.ttf') format('truetype'),
+		url('https://erichseamon.github.io/erichseamon/wp-content/plugins/wp-symposium-toolbar/fonts/WPST-icons.woff') format('woff'),
+		url('https://erichseamon.github.io/erichseamon/wp-content/plugins/wp-symposium-toolbar/fonts/WPST-icons.svg#WPST-icons') format('svg');
 }
 
 #wpadminbar .ab-top-menu > li > a:before {
