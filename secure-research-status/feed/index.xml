@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>Comments on: Secure Research Status</title>
-	<atom:link href="http://webpages.uidaho.edu/erichs/secure-research-status/feed/" rel="self" type="application/rss+xml" />
-	<link>http://webpages.uidaho.edu/erichs/secure-research-status/</link>
+	<atom:link href="/secure-research-status/feed/" rel="self" type="application/rss+xml" />
+	<link>/secure-research-status/</link>
 	<description>Research Scientist - University of Idaho</description>
-	<lastBuildDate>Wed, 23 May 2018 20:39:50 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 23 May 2018 21:13:03 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8.2</generator>

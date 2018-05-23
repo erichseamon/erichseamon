@@ -30,11 +30,11 @@
 
 @font-face {
 	font-family: 'WPST-icons';
-	src:url('http://webpages.uidaho.edu/erichs/wp-content/plugins/wp-symposium-toolbar/fonts/WPST-icons.eot');
-	src:url('http://webpages.uidaho.edu/erichs/wp-content/plugins/wp-symposium-toolbar/fonts/WPST-icons.eot#iefix') format('embedded-opentype'),
-		url('http://webpages.uidaho.edu/erichs/wp-content/plugins/wp-symposium-toolbar/fonts/WPST-icons.ttf') format('truetype'),
-		url('http://webpages.uidaho.edu/erichs/wp-content/plugins/wp-symposium-toolbar/fonts/WPST-icons.woff') format('woff'),
-		url('http://webpages.uidaho.edu/erichs/wp-content/plugins/wp-symposium-toolbar/fonts/WPST-icons.svg#WPST-icons') format('svg');
+	src:url('/wp-content/plugins/wp-symposium-toolbar/fonts/WPST-icons.eot');
+	src:url('/wp-content/plugins/wp-symposium-toolbar/fonts/WPST-icons.eot#iefix') format('embedded-opentype'),
+		url('/wp-content/plugins/wp-symposium-toolbar/fonts/WPST-icons.ttf') format('truetype'),
+		url('/wp-content/plugins/wp-symposium-toolbar/fonts/WPST-icons.woff') format('woff'),
+		url('/wp-content/plugins/wp-symposium-toolbar/fonts/WPST-icons.svg#WPST-icons') format('svg');
 }
 
 #wpadminbar .ab-top-menu > li > a:before {

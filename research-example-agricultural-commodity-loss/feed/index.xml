@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>Comments on: Data Science Example: Agricultural Commodity Loss</title>
-	<atom:link href="http://webpages.uidaho.edu/erichs/research-example-agricultural-commodity-loss/feed/" rel="self" type="application/rss+xml" />
-	<link>http://webpages.uidaho.edu/erichs/research-example-agricultural-commodity-loss/</link>
+	<atom:link href="/research-example-agricultural-commodity-loss/feed/" rel="self" type="application/rss+xml" />
+	<link>/research-example-agricultural-commodity-loss/</link>
 	<description>Research Scientist - University of Idaho</description>
-	<lastBuildDate>Wed, 23 May 2018 20:39:52 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 23 May 2018 21:13:04 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8.2</generator>

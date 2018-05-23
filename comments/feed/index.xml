@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>Comments for Erich Seamon</title>
-	<atom:link href="http://webpages.uidaho.edu/erichs/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://webpages.uidaho.edu/erichs/</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Research Scientist - University of Idaho</description>
-	<lastBuildDate>Wed, 23 May 2018 20:39:43 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 23 May 2018 21:12:58 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8.2</generator>
