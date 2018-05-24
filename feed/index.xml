@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Erich Seamon</title>
-	<atom:link href="http://erichseamon.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>http://erichseamon.github.io/</link>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Research Scientist - University of Idaho</description>
 	<lastBuildDate>Wed, 04 Apr 2018 03:21:07 +0000</lastBuildDate>
 	<language>en</language>
@@ -19,120 +19,120 @@
 	<generator>https://wordpress.org/?v=4.8.2</generator>
 
 <image>
-	<url>http://erichseamon.github.io/wp-content/uploads/2017/12/cropped-icon-32x32.png</url>
+	<url>/wp-content/uploads/2017/12/cropped-icon-32x32.png</url>
 	<title>Erich Seamon</title>
-	<link>http://erichseamon.github.io/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Climate Science Background and Experience</title>
-		<link>http://erichseamon.github.io/climate-science-background-and-experience/</link>
+		<link>/climate-science-background-and-experience/</link>
 		<pubDate>Wed, 04 Apr 2018 01:45:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://erichseamon.github.io/?p=613</guid>
+		<guid isPermaLink="false">/?p=613</guid>
 		<description><![CDATA[Below is a synopsis of several different climate science projects I have worked on over the past 10 years @ the University of Idaho.  I have particular experience...]]></description>
 		</item>
 		<item>
 		<title>Resume</title>
-		<link>http://erichseamon.github.io/resume/</link>
+		<link>/resume/</link>
 		<pubDate>Mon, 21 Aug 2017 03:53:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://erichseamon.github.io/?p=12</guid>
+		<guid isPermaLink="false">/?p=12</guid>
 		<description><![CDATA[Hi – my name is Erich Seamon.  I have extensive experience in information technology, GIS, and project management.  I am a certified Project Management Professional (PMP) , Geographic Information Systems Professional (GISP), as well as Infrastructure Library Information Library Foundation certified (ITILF).]]></description>
 		</item>
 		<item>
 		<title>GIS Background and Experience</title>
-		<link>http://erichseamon.github.io/gis-background-and-experience/</link>
+		<link>/gis-background-and-experience/</link>
 		<pubDate>Thu, 28 Dec 2017 01:07:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://erichseamon.github.io/?p=477</guid>
+		<guid isPermaLink="false">/?p=477</guid>
 		<description><![CDATA[I have a background in geographic information systems (GIS), using ArcGIS desktop, ArcGIS server, python, R, as well as managing spatial data within several flavors of databases (SQL Server, Oracle, DB2, MongoDB).  I regularly deploy GIS-based web services, manage geodatabases, and use modeling efforts to understand spatial patterns and relationships.]]></description>
 		</item>
 		<item>
 		<title>Research</title>
-		<link>http://erichseamon.github.io/research/</link>
+		<link>/research/</link>
 		<pubDate>Mon, 21 Aug 2017 03:50:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://erichseamon.github.io/?p=10</guid>
+		<guid isPermaLink="false">/?p=10</guid>
 		<description><![CDATA[ My research interests are described, including work with GIS, agricultural insurance crop loss, as well as a line of work in GIS and child psychology.]]></description>
 		</item>
 		<item>
 		<title>Data Science Example: Agricultural Commodity Loss</title>
-		<link>http://erichseamon.github.io/research-example-agricultural-commodity-loss/</link>
+		<link>/research-example-agricultural-commodity-loss/</link>
 		<pubDate>Mon, 21 Aug 2017 19:51:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://erichseamon.github.io/?p=97</guid>
+		<guid isPermaLink="false">/?p=97</guid>
 		<description><![CDATA[ In the attached R Markdown notebook, I explore agricultural insurance crop loss data in comparison to climate data, looking at basic exploratory analyses.]]></description>
 		</item>
 		<item>
 		<title>Data Science Example: Climate Data Extraction</title>
-		<link>http://erichseamon.github.io/research-example-climate-data-extraction/</link>
+		<link>/research-example-climate-data-extraction/</link>
 		<pubDate>Mon, 21 Aug 2017 19:37:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://erichseamon.github.io/?p=87</guid>
+		<guid isPermaLink="false">/?p=87</guid>
 		<description><![CDATA[In the attached Python Jupyter notebook, data from two distinct sources are used: 1) stream temperature observational locations, taken from the USFS NorWEST regional stream temperature database, and 2) gridded climate data from the University of Idaho’s GridMET team (led by University of Idaho's Dr.  John Abatzoglou).]]></description>
 		</item>
 		<item>
 		<title>Data Science Example: Landslide Analysis in Oregon and Washington</title>
-		<link>http://erichseamon.github.io/research-example-landslide-analysis-in-oregon/</link>
+		<link>/research-example-landslide-analysis-in-oregon/</link>
 		<pubDate>Mon, 21 Aug 2017 19:54:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://erichseamon.github.io/?p=100</guid>
+		<guid isPermaLink="false">/?p=100</guid>
 		<description><![CDATA[ In the Python Jupyter notebook below, landslide data from oregon is extracted, analyzed, and run thru a series of analysis techniques including decision trees/random forest analysis.]]></description>
 		</item>
 		<item>
 		<title>Secure Research Status</title>
-		<link>http://erichseamon.github.io/secure-research-status/</link>
+		<link>/secure-research-status/</link>
 		<pubDate>Wed, 23 Aug 2017 22:36:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://erichseamon.github.io/?p=227</guid>
+		<guid isPermaLink="false">/?p=227</guid>
 		<description><![CDATA[ A secure page that provides a status of my research to related colleagues and mentors.]]></description>
 		</item>
 		<item>
 		<title>Data Science Example: Daily Climate Change Wordclouds</title>
-		<link>http://erichseamon.github.io/wordclouds</link>
+		<link>/wordclouds</link>
 		<pubDate>Fri, 29 Dec 2017 02:13:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[wordcloud]]></category>
 
-		<guid isPermaLink="false">http://erichseamon.github.io/?p=517</guid>
+		<guid isPermaLink="false">/?p=517</guid>
 		<description><![CDATA[This is a Twitter wordcloud, constructed daily, using the phrase “climate change”. The most recent 500 tweets from the time of the run (2pm) that contain the phrase “climate change” are organized in a corpus and then a term document sparse matrix.]]></description>
 		</item>
 		<item>
 		<title>GitHub Repositories</title>
-		<link>http://erichseamon.github.io/github-repositories/</link>
+		<link>/github-repositories/</link>
 		<pubDate>Fri, 29 Dec 2017 22:36:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://erichseamon.github.io/?p=537</guid>
+		<guid isPermaLink="false">/?p=537</guid>
 		<description><![CDATA[Github repositories of all my R, python, javascript, and shell scripting work.  Each repository has a readme that describes the overall project and code file descriptions.]]></description>
 		</item>
 		<item>
 		<title>Climate Impacts Research Consortium (CIRC) Data Mining Stream</title>
-		<link>http://erichseamon.github.io/team-collaboration-circ/</link>
+		<link>/team-collaboration-circ/</link>
 		<pubDate>Mon, 21 Aug 2017 04:57:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://erichseamon.github.io/?p=32</guid>
+		<guid isPermaLink="false">/?p=32</guid>
 		<description><![CDATA[The Pacific Northwest Climate Impacts Research Consortium (CIRC) is a research organization funded by the National Oceanic and Atmospheric Administration to provide policy makers, resource managers, and fellow researchers with the best available science covering the changing climate of Oregon, Washington, Idaho, and western Montana.]]></description>
 		</item>
 	</channel>

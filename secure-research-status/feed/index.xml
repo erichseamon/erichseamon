@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>Comments on: Secure Research Status</title>
-	<atom:link href="http://erichseamon.github.io/secure-research-status/feed/" rel="self" type="application/rss+xml" />
-	<link>http://erichseamon.github.io/secure-research-status/</link>
+	<atom:link href="/secure-research-status/feed/" rel="self" type="application/rss+xml" />
+	<link>/secure-research-status/</link>
 	<description>Research Scientist - University of Idaho</description>
-	<lastBuildDate>Thu, 24 May 2018 02:35:07 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 24 May 2018 02:58:49 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8.2</generator>
